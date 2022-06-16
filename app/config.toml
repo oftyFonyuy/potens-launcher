@@ -1,0 +1,16 @@
+ip = "127.0.0.1"
+port = 8000
+pk = []
+sk = []
+hash_rate = 123
+shard_size = 8
+call_nb_threshold = 8
+call_quality_target = 0.2
+call_gossip_fanout = 8
+pop_time_window = 10
+proof_reception_window = 5
+proof_hash_target = 0.95
+proof_size = 1000
+view_reception_quota = 0.75
+verifier_power_percentage = 1.0
+verifier_suspicion_threshold = 50
